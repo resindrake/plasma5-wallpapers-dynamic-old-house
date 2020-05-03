@@ -1,0 +1,49 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "resin@resindrake.net",
+                "Name": "Resin Drake"
+            }
+        ],
+        "Id": "677357e8-1d46-4013-854d-bf624b9d927e",
+        "Name": "Old House by ArseniXC"
+    },
+    "Wallpaper": {
+        "Preview": "old-house-day.jpg",
+        "Smooth": true,
+        "Type": "solar",
+        "MetaData": [
+            {
+                "Azimuth": 74,
+                "Elevation": -6,
+                "FileName": "old-house-night.jpg"
+            },
+            {
+                "Azimuth": 71.6,
+                "Elevation": -0.53,
+                "FileName": "old-house-sunset.jpg"
+            },
+            {
+                "Azimuth": 67.48,
+                "Elevation": 4.91,
+                "FileName": "old-house-day.jpg"
+            },
+            {
+                "Azimuth": 292.9,
+                "Elevation": 5.21,
+                "FileName": "old-house-day.jpg"
+            },
+            {
+                "Azimuth": 288.64,
+                "Elevation": -0.34,
+                "FileName": "old-house-sunset.jpg"
+            },
+            {
+                "Azimuth": 284.58,
+                "Elevation": -6.69,
+                "FileName": "old-house-night.jpg"
+            }
+        ]
+    }
+}
